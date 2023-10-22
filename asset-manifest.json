@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/moviecorn/static/css/main.85b516b3.css",
+    "main.css": "/moviecorn/static/css/main.0a7e2b4b.css",
     "main.js": "/moviecorn/static/js/main.8b4ed95b.js",
     "index.html": "/moviecorn/index.html",
-    "main.85b516b3.css.map": "/moviecorn/static/css/main.85b516b3.css.map",
+    "main.0a7e2b4b.css.map": "/moviecorn/static/css/main.0a7e2b4b.css.map",
     "main.8b4ed95b.js.map": "/moviecorn/static/js/main.8b4ed95b.js.map"
   },
   "entrypoints": [
-    "static/css/main.85b516b3.css",
+    "static/css/main.0a7e2b4b.css",
     "static/js/main.8b4ed95b.js"
   ]
 }
